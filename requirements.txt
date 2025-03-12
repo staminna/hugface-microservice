@@ -2,7 +2,5 @@ fastapi
 uvicorn[standard]
 transformers
 torch
-protobuf
-sentencepiece
-tiktoken
+accelerate
 
