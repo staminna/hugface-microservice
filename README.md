@@ -101,3 +101,4 @@ MIT
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
+# fastapi_microservice
